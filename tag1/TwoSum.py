@@ -7,7 +7,7 @@ class Solution(object):
         for i in range(0, len(self.sums)):
             for j in range(i, len(self.sums)):
                 if self.sums[i] + self.sums[j] == self.target:
-                    return i, j
+                    return [i, j]
 
 if __name__ == '__main__':
     sums = (2, 7, 11, 15)

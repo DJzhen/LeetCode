@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c396d773-d2a2-4d81-a1d9-3a1bca805cff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tag1/TwoSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tag1/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag1/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/tag1/TwoSum.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LeetCode$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1533450468627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tag1" />
+    <SUITE FILE_PATH="coverage/LeetCode$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1533451332286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tag1" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="TwoSum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tag1/TwoSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -54,8 +53,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2071" />
-    <option name="y" value="14" />
+    <option name="x" value="2210" />
+    <option name="y" value="18" />
     <option name="width" value="1620" />
     <option name="height" value="994" />
   </component>
@@ -183,15 +182,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533445189117</updated>
-      <workItem from="1533445194710" duration="4187000" />
+      <workItem from="1533445194710" duration="5401000" />
     </task>
+    <task id="LOCAL-00001" summary="TwoSum">
+      <created>1533450527858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533450527858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4187000" />
+    <option name="totallyTimeSpent" value="5401000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2745" y="41" width="1620" height="994" extended-state="0" />
+    <frame x="2306" y="19" width="1620" height="994" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -229,11 +237,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TwoSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="TwoSum" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tag1/TwoSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="275">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
